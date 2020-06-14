@@ -8,6 +8,7 @@ My goal is to work through the book [Basketball Data Science with Applications i
 * [Chapter 2: Data and Basic Statistical Analyses](https://github.com/basketballrelativity/basketball_data_science/tree/master/Chapter%202)
   - [Pace and Ratings](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%202/Pace%20and%20Ratings.ipynb)
   - [Inequality Analysis](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%202/Inequality%20Analysis.ipynb)
+  - [Shot Charts](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%202/Shot%20Charts.ipynb)
 * Chapter 3: Discovering Patterns in Data
 * Chapter 4: Finding Groups in Data
 * Chapter 5: Modeling Relationships in Data
