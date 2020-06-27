@@ -11,6 +11,7 @@ My goal is to work through the book [Basketball Data Science with Applications i
   - [Shot Charts](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%202/Shot%20Charts.ipynb)
 * [Chapter 3: Discovering Patterns in Data](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203)
   - [Assist Networks](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203/Assist%20Networks.ipynb)
+  - [Shot Density](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203/Shot%20Density.ipynb)
 * Chapter 4: Finding Groups in Data
 * Chapter 5: Modeling Relationships in Data
 
