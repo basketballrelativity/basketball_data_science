@@ -12,7 +12,8 @@ My goal is to work through the book [Basketball Data Science with Applications i
 * [Chapter 3: Discovering Patterns in Data](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203)
   - [Assist Networks](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203/Assist%20Networks.ipynb)
   - [Shot Density](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%203/Shot%20Density.ipynb)
-* Chapter 4: Finding Groups in Data
+* [Chapter 4: Finding Groups in Data](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%204)
+  - [Shot Clustering](https://github.com/basketballrelativity/basketball_data_science/blob/master/Chapter%204/Shot%20Clustering.ipynb)
 * Chapter 5: Modeling Relationships in Data
 
 Each chapter is decently long, so there may be multiple Jupyter notebooks per chapter, depending on how things shake out.
